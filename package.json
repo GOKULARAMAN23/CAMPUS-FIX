@@ -1,0 +1,10 @@
+{
+  "name": "hackathon-2",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix day/day run dev",
+    "build": "npm --prefix day/day run build",
+    "preview": "npm --prefix day/day run preview"
+  }
+}
